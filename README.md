@@ -2,7 +2,7 @@
 
 This capstone project analyzes Cyclistic bike-share usage patterns using BigQuery SQL and Tableau Public to identify how casual riders and annual members use the service differently, with the aim of supporting membership growth strategies.
 
-Ask, Prepare, Process, Analyze, Share, and Act
+Ask, Prepare, Process, Analyse, Share, and Act
 
 The purpose of this analysis is to understand how casual riders and annual members use Cyclistic bikes differently. The business goal is to use these insights to support marketing strategies that can encourage more casual riders to become annual members.
 
@@ -126,7 +126,7 @@ This dataset became the foundation for all SQL analysis and Tableau visualizatio
 
 ---
 
-## Analyze
+## Analyse
 
 The main analysis focused on identifying behavioral differences between members and casual riders. To keep Tableau fast and efficient, aggregated summary tables were created in BigQuery and exported for dashboard creation.
 
